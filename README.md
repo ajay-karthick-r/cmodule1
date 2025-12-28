@@ -26,7 +26,7 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
-
+~~~
 #include <stdio.h>
 
 int main() {
@@ -42,6 +42,7 @@ int main() {
 
     return 0;
 }
+~~~
 # Output:
 <img width="589" height="251" alt="image" src="https://github.com/user-attachments/assets/ec3c8bf3-0ecd-4e73-a3ef-efc5e1aa1f7b" />
 
@@ -75,6 +76,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+~~~
 #include <stdio.h>
 #define PI 3.14159
 int main() {
@@ -85,6 +87,7 @@ int main() {
 
     return 0;
 }
+~~~
 # Output:
 <img width="505" height="184" alt="Screenshot 2025-12-28 135938" src="https://github.com/user-attachments/assets/391548e9-b88b-4989-901e-3d562f6b6285" />
 
@@ -111,6 +114,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+~~~
 #include <stdio.h>
 int main() {
     int intVar = 25;
@@ -123,6 +127,7 @@ int main() {
     printf("Character value: %c\n", charVar);
     return 0;
 }
+~~~
 # Output:
 <img width="482" height="257" alt="Screenshot 2025-12-28 140045" src="https://github.com/user-attachments/assets/173c78f3-248d-4768-a91c-38e1d8a6bb42" />
 
@@ -164,6 +169,7 @@ int main() {
 ### Step 8:   
   Stop
 # Program:
+~~~
 #include <stdio.h>
 
 int main() {
@@ -193,6 +199,7 @@ printf("AND = %d\nOR = %d\nXOR = %d\nLeft Shift = %d\nRight Shift = %d\nNOT (~a)
 
 return 0;
 }
+~~~
 # Output:
 <img width="339" height="510" alt="image" src="https://github.com/user-attachments/assets/2a9f93a2-5bff-4f0e-a6cf-81818e1bd19f" />
 
@@ -240,6 +247,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+~~~
 #include <stdio.h>
 
 int main() {
@@ -268,6 +276,7 @@ scanf("%c", &ch);
 
 return 0;
 }
+~~~
 # Output:
 <img width="335" height="172" alt="image" src="https://github.com/user-attachments/assets/0d4fd8da-d148-4bce-b801-9a3e4d49c5a8" />
 
